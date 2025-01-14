@@ -1,5 +1,4 @@
 ---
-title: "Welcome!"
 format:
   html: 
     toc: false
@@ -10,6 +9,8 @@ format:
     number-sections: true
     colorlinks: true
 ---
+
+### Welcome!
 
 I'm looking forward to getting to know each of you this semester and it is my sincere goal to make our time together (in class and out) productive and engaging. I am here to help you succeed, not just in learning the material but in growing as a learner. Learning takes effort, a willingness to try something that may not work, and an openness to learning from feedback. My role is to help create an environment in which all of you are supported in these aspects.
 

@@ -8,7 +8,7 @@ book:
   cover-image: "images/whitaker.jpg"
   
   navbar:
-    title: "mth 304 :: Spring 25"
+    title: "mth 304 :: Complex Functions"
 #    background: "#D0B8A8"
     search: true
     right:
@@ -28,9 +28,10 @@ book:
     collapse-level: 2
   
   chapters:
-    - index.qmd
-    - support.qmd
+    - href: index.qmd
+      text: "Welcome"
     - glance.qmd
+    - support.qmd
     - about.qmd
     - structure.qmd
     - grades.qmd

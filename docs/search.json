@@ -2,12 +2,12 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "MTH 304",
     "section": "",
-    "text": "I’m looking forward to getting to know each of you this semester and it is my sincere goal to make our time together (in class and out) productive and engaging. I am here to help you succeed, not just in learning the material but in growing as a learner. Learning takes effort, a willingness to try something that may not work, and an openness to learning from feedback. My role is to help create an environment in which all of you are supported in these aspects.\nI want you to feel comfortable coming to me with any questions or concerns that arise, mathematical and otherwise. If you encounter any issues that interfere with your learning, whether they are physical, mental, emotional, economic, or otherwise, or if you experience discrimination or mistreatment of any sort, please contact me immediately.",
+    "text": "Welcome!\nI’m looking forward to getting to know each of you this semester and it is my sincere goal to make our time together (in class and out) productive and engaging. I am here to help you succeed, not just in learning the material but in growing as a learner. Learning takes effort, a willingness to try something that may not work, and an openness to learning from feedback. My role is to help create an environment in which all of you are supported in these aspects.\nI want you to feel comfortable coming to me with any questions or concerns that arise, mathematical and otherwise. If you encounter any issues that interfere with your learning, whether they are physical, mental, emotional, economic, or otherwise, or if you experience discrimination or mistreatment of any sort, please contact me immediately.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome!</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
     ]
   },
   {
@@ -15,10 +15,10 @@
     "href": "support.html",
     "title": "Student Support",
     "section": "",
-    "text": "Drop-In Hours\nThroughout the semester, I expect that you will have questions. This might happen while doing homework or reviewing your notes, or perhaps a question came up during class that didn’t get fully resolved.\nYou might also find that you don’t have a specific question but just feel generally confused or uncertain about the stuff we’re doing in class. That’s okay too - that’s what learning is all about!\nFor these reasons, it’s important that you know how to get help outside of class.\nThese are specific times that I’ve set aside during the week when I’m available for drop-in help. You do not need to let me know you’re coming – just show up at my office (BC 270).\nMany students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have questions.",
+    "text": "Drop-In Hours\nThese are specific times that I’ve set aside during the week when I’m available for drop-in help. You do not need to let me know you’re coming – just show up at my office (BC 270).\nMany students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have questions.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
     ]
   },
   {
@@ -29,7 +29,7 @@
     "text": "MW\n10:00 - 11:00\n\n\nTR\n11:30 - 1:00\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSince I’m setting these times before the semester actually begins, these times may change if my schedule changes. If it turns out that I need to adjust them, I will let you know!",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Student Support</span>"
     ]
   },
   {
@@ -40,7 +40,7 @@
     "text": "Sign-Up Hours\nI recognize that your schedule might not allow you to stop by during the posted drop-in hours. Or you might simply find it more convenient to meet with me at a different time. No problem! If you go to my Calendly scheduler, you can sign-up for a different time slot to meet, either in-person or via zoom. If there is a specific time that works for you and you don’t see it available on the Calendly scheduler, please reach out to me via email and we will find a time that works for your schedule.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
     ]
   },
   {
@@ -51,7 +51,7 @@
     "text": "Open Door Policy\nI have the scheduled drop-in hours simply to give you some times when you know that I’ll be available – but you are always welcome to stop by my office at any time. Unless I’m in class or in a meeting, I am generally available to meet with you!",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
     ]
   },
   {
@@ -62,7 +62,7 @@
     "text": "Math Resource Center\nThe MRC offers both drop-in tutoring as well as individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester). You can also find information about the MRC (and other resources at the Learning Commons) here: https://bit.ly/learning-up.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
     ]
   },
   {
@@ -70,7 +70,7 @@
     "href": "glance.html",
     "title": "Course at a Glance",
     "section": "",
-    "text": "Class Schedule\nTue-Thu, 9:45-11:10  DB 230",
+    "text": "Class Schedule\nTue-Thu, 2:30-3:55  DB 233",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course at a Glance</span>"
@@ -81,7 +81,7 @@
     "href": "glance.html#instructor-info",
     "title": "Course at a Glance",
     "section": "Instructor Info",
-    "text": "Instructor Info\nChris Hallstrom, PhD (he/him). My office is Buckley Center 270.\n\nhallstro@up.edu\nEmail is the best way to contact me. I will do my best to get back to you as soon as I can, but please be aware that I do not check my email regularly in the evenings or on weekends.\nZoom\nIn addition to stopping by my office for questions, I can also be available, by prior arrangement, via zoom. Here is my zoom link. The easiest way to set up a zoom meeting is to use my Calendly link (see below).\nCalendly\nTo schedule a meeting (in-person or virtual), you can use my Calendly scheduluer. If you would like to meet at time that you don’t see available on Calendly, please feel free to check with me via email!",
+    "text": "Instructor Info\nChris Hallstrom, PhD (he/him).\n\nBC 270\nFeel free to stop by at any time or check the Drop-In Hours schedule.\nhallstro@up.edu\nEmail is the best way to contact me. I will do my best to get back to you as soon as I can, but please be aware that I do not check my email regularly in the evenings or on weekends.\nCalendly\nTo schedule a meeting (in-person or virtual), you can use my Calendly scheduluer. If you would like to meet at time that you don’t see available on Calendly, please feel free to check with me via email!",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course at a Glance</span>"
@@ -103,7 +103,7 @@
     "href": "glance.html#text",
     "title": "Course at a Glance",
     "section": "Text",
-    "text": "Text\nInstead of a standard textbook, we will primarily use a set of materials designed to introduce and explore differential equations using an inquiry-based approach. I will provide these materials as needed, but if you’re curious, you can find them here: Inquiry-Oriented Differential Equations (IODE).\nThat said, we will use the text Ordinary Differential Equations: A Primer on Dynamics and Systems, v. 2.3, by C. Hallstrom as a supplimental resource as needed. This text is posted on our class Moodle page.",
+    "text": "Text\nWe will be using a set of inquiry-oriented notes Complex Functions",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course at a Glance</span>"
@@ -349,6 +349,17 @@
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>University Policies</span>"
+    ]
+  },
+  {
+    "objectID": "support.html#sec-office",
+    "href": "support.html#sec-office",
+    "title": "Student Support",
+    "section": "",
+    "text": "MW\n10:00 - 11:00\n\n\nTR\n11:30 - 1:00\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSince I’m setting these times before the semester actually begins, these times may change if my schedule changes. If it turns out that I need to adjust them, I will let you know!",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
     ]
   }
 ]
