@@ -1,11 +1,13 @@
 project:
   type: book
   output-dir: docs
+  resources: 
+    - V220254S.pdf
   
 book:
   title: "MTH 304"
   subtitle: "Complex Functions"
-  cover-image: "images/whitaker.jpg"
+#  cover-image: "images/whitaker.jpg"
   
   navbar:
     title: "mth 304 :: Complex Functions"
@@ -31,6 +33,7 @@ book:
     - href: index.qmd
       text: "Welcome"
     - glance.qmd
+    - inquiry.qmd
     - support.qmd
     - about.qmd
     - structure.qmd

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "MTH 304",
     "section": "",
-    "text": "Welcome!\nI’m looking forward to getting to know each of you this semester and it is my sincere goal to make our time together (in class and out) productive and engaging. I am here to help you succeed, not just in learning the material but in growing as a learner. Learning takes effort, a willingness to try something that may not work, and an openness to learning from feedback. My role is to help create an environment in which all of you are supported in these aspects.\nI want you to feel comfortable coming to me with any questions or concerns that arise, mathematical and otherwise. If you encounter any issues that interfere with your learning, whether they are physical, mental, emotional, economic, or otherwise, or if you experience discrimination or mistreatment of any sort, please contact me immediately.",
+    "text": "Welcome!\n\n\nI’m looking forward to getting to know each of you this semester and it is my sincere goal to make our time together (in class and out) productive and engaging. I am here to help you succeed, not just in learning the material but in growing as a learner. Learning takes effort, a willingness to try something that may not work, and an openness to learning from feedback. My role is to help create an environment in which all of you are supported in these aspects.\nI want you to feel comfortable coming to me with any questions or concerns that arise, mathematical and otherwise. If you encounter any issues that interfere with your learning, whether they are physical, mental, emotional, economic, or otherwise, or if you experience discrimination or mistreatment of any sort, please contact me immediately.",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
@@ -18,7 +18,7 @@
     "text": "Drop-In Hours\nThese are specific times that I’ve set aside during the week when I’m available for drop-in help. You do not need to let me know you’re coming – just show up at my office (BC 270).\nMany students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have questions.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Student Support</span>"
     ]
   },
   {
@@ -40,7 +40,7 @@
     "text": "Sign-Up Hours\nI recognize that your schedule might not allow you to stop by during the posted drop-in hours. Or you might simply find it more convenient to meet with me at a different time. No problem! If you go to my Calendly scheduler, you can sign-up for a different time slot to meet, either in-person or via zoom. If there is a specific time that works for you and you don’t see it available on the Calendly scheduler, please reach out to me via email and we will find a time that works for your schedule.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Student Support</span>"
     ]
   },
   {
@@ -51,7 +51,7 @@
     "text": "Open Door Policy\nI have the scheduled drop-in hours simply to give you some times when you know that I’ll be available – but you are always welcome to stop by my office at any time. Unless I’m in class or in a meeting, I am generally available to meet with you!",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Student Support</span>"
     ]
   },
   {
@@ -62,7 +62,7 @@
     "text": "Math Resource Center\nThe MRC offers both drop-in tutoring as well as individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester). You can also find information about the MRC (and other resources at the Learning Commons) here: https://bit.ly/learning-up.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Student Support</span>"
     ]
   },
   {
@@ -81,7 +81,7 @@
     "href": "glance.html#instructor-info",
     "title": "Course at a Glance",
     "section": "Instructor Info",
-    "text": "Instructor Info\nChris Hallstrom, PhD (he/him).\n\nBC 270\nFeel free to stop by at any time or check the Drop-In Hours schedule.\nhallstro@up.edu\nEmail is the best way to contact me. I will do my best to get back to you as soon as I can, but please be aware that I do not check my email regularly in the evenings or on weekends.\nCalendly\nTo schedule a meeting (in-person or virtual), you can use my Calendly scheduluer. If you would like to meet at time that you don’t see available on Calendly, please feel free to check with me via email!",
+    "text": "Instructor Info\nChris Hallstrom, PhD  (he/him)\n\nBC 270\nFeel free to stop by at any time or check the Drop-In Hours schedule.\nhallstro@up.edu\nEmail is the best way to contact me. I will do my best to get back to you as soon as I can, but please be aware that I do not check my email regularly in the evenings or on weekends.\nCalendly\nIf you would like to schedule a meeting (in-person or virtual), you can use my Calendly scheduluer. If you’d like to meet at time that you don’t see available on Calendly, feel free to check with me via email!",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course at a Glance</span>"
@@ -92,7 +92,7 @@
     "href": "glance.html#syllabus-and-class-materials",
     "title": "Course at a Glance",
     "section": "Syllabus and Class Materials",
-    "text": "Syllabus and Class Materials\nAdditional course information can be found on this webpage as well as our class Moodle page. All course materials and assignments will be posted on Moodle.",
+    "text": "Syllabus and Class Materials\nAdditional course information can be found on this webpage. All course materials and assignments will be posted on our class Moodle page..",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course at a Glance</span>"
@@ -103,7 +103,7 @@
     "href": "glance.html#text",
     "title": "Course at a Glance",
     "section": "Text",
-    "text": "Text\nWe will be using a set of inquiry-oriented notes Complex Functions",
+    "text": "Text\nWe will be using a set of inquiry-oriented notes Complex Functions by Joshua Bowman. These notes are posted on our Moodle page.\n\n\n\n\n\n\nInquiry Method\n\n\n\nBecuase we are using an inquiry method in this class, I will ask you to refrain from using any outside resources for this class – at least as they pertain to the material. You’re welcome to look up facts and identities from prior math courses - e.g. calculus - if you think that would help. For more information about inquiry-based pedagogy, see Section 3  Inquiry Based Learning.",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course at a Glance</span>"
@@ -114,7 +114,7 @@
     "href": "glance.html#technology-and-other-resources",
     "title": "Course at a Glance",
     "section": "Technology and Other Resources",
-    "text": "Technology and Other Resources\nSome of the work we will do in this class will require the use of technology such as a graphing calculators or dynamic graphing software such as Desmos. I highly recommend that you create a (free) Desmos account so that you can save your work. If you have questions about how to use any of these tools, please let me know. If you do use technology in your work, please indicate this in your written solutions.\n\nA word on search engines\nSearch engines (Google, DuckDuckGo, etc) use algorithms to determine what content on the internet is likely to be relevant to your search query. They can be useful for finding references, explanations, solutions, etc. They cannot find information that is not on the internet, and search results may be affected by hidden parameters introduced by the companies that run them. Whether this content actually is relevant (or correct) is up to you to figure out.\n\n\nA word on videos\nStudents sometimes seek out video explanations of concepts and techniques covered in this course. While I don’t object to getting help this way, you should be aware that these explanations may very well use notation, definitions, or ideas that are not convered in this class, sometimes for very intentional reasons!\n\n\nA word on GenAI\nAI text generators (ChatGPT, Copilot, Gemini, etc.) use Large Language Models (LLMs) to produce text that is likely to resemble a human-produced response to a given prompt. They are most likely to produce a meaningful output on topics where a great deal of human-produced text has already been written – which happens to include most of undergraduate mathematics. This output, however, is based on statistical predictions from contextual clues, not logical deductions or expert knowledge and there’s no guarantee that it’s mathematically correct!\nMy general feeling about the use of AI tools in the context of this course is that they fundamentally get in the way of your learning in several ways and should not be used in any capacity.\n\nThey are prone to both plagiarizing as well as making things up. Since their responses are produced from an amalgamation of many sources (sometimes without the permission of the original authors) they invariably use definitions, notation, assumptions, and concepts that we have not introduced in our class.\nAI tools undermine the collaborative learning community that we would like to develop. A significant way in which we will be building understanding in the class is through discussion with each other.\nUsing AI tools means that you are cheating yourself out of an opportunity to learn. The whole point of being in this class is to learn how to use certain ideas and tools to solve problems. Note that I didn’t say that the point is to solve problems. This is a very much like the difference between taking your car to a mechanic vs. learning how to fix it yourself. Or going to a restaurant vs. learning how to cook.\nUsing AI tools undermines the relationship between student and instructor. When a student gives me work that seems AI generated, it creates an adversarial dynamic and now I’m looking at everything that student gives me with suspicion. If you ever feel tempted to use AI tools to shortcut your learning, please pause and come talk to me about finding a different strategy.\nApart from doing mathematics, students sometimes use AI tools to help with writing (and here I’m also thinking of tools like Grammerly). Here’s a secret – AI-assisted writing is bad writing, period. It might be gramatically “correct” but that’s not the same thing as good writing. Good writing involves actual thinking by a unique individual person.\n\nSo where does that leave us? I really do not want to lay down a policy of “THOU SHALL NOT…” because I’d much rather simply trust you. So that’s what I’ll do - you now know how I feel about using AI tools in this class and I will trust that you will respect me, your classmates, and our goals for being here together enough that you’ll honor that trust.",
+    "text": "Technology and Other Resources\nSome of the work we will do in this class will benefit from the use of technology such as Desmos. I highly recommend that you create a (free) Desmos account so that you can save your work. If you have questions about how to use any of these tools, please let me know. If you do use technology in your work, please indicate this in your written solutions.\n\nA word on search engines\nSearch engines (e.g. Google) use algorithms to determine what content on the internet is likely to be relevant to your search query. They cannot find information that is not on the internet, and search results may be affected by hidden parameters introduced by the companies that run them. Whether this content actually is relevant (or correct) is up to you to figure out.\n\n\nA word on GenAI\nAI text generators (ChatGPT, Copilot, Gemini, etc.) use Large Language Models (LLMs) to produce text that is likely to resemble a human-produced response to a given prompt. They are most likely to produce a meaningful output on topics where a great deal of human-produced text has already been written (which happens to include most of undergraduate mathematics). This output, however, is based on statistical predictions from contextual clues, not logical deductions or expert knowledge and there’s no guarantee that it’s mathematically correct!\n\n\n\n\n\n\nMy general feeling about the use of AI tools in the context of this course is that they fundamentally get in the way of your learning in several ways and should not be used in any capacity.\n\n\n\n\nThey are prone to both plagiarizing as well as making things up. Since their responses are produced from an amalgamation of many sources (sometimes without the permission of the original authors) they invariably use definitions, notation, assumptions, and concepts that we have not introduced in our class.\nAI tools undermine the collaborative learning community that we would like to develop. A significant way in which we will be building understanding in the class is through discussion with each other.\nUsing AI tools means that you are cheating yourself out of an opportunity to learn. The whole point of being in this class is to learn how to use certain ideas and tools to solve problems. Note that I didn’t say that the point is to solve problems. This is a very much like the difference between going to a restaurant vs. learning how to cook.\nUsing AI tools undermines the relationship between student and instructor. When a student gives me work that seems AI generated, it creates an adversarial dynamic and now I’m looking at everything that student gives me with suspicion. If you ever feel tempted to use AI tools to shortcut your learning, please pause and come talk to me about finding a different strategy.\nApart from doing mathematics, students sometimes use AI tools to help with writing (and here I’m also thinking of tools like Grammerly). Here’s a secret – AI-assisted writing is not good writing, period. It might be gramatically “correct” but that’s not the same thing. Good writing involves actual thinking by a unique individual person.\n\nSo where does that leave us? I really do not want to lay down a policy of “THOU SHALL NOT…” because I’d much rather simply trust you. So that’s what I’ll do - you now know how I feel about using AI tools in this class and I will trust that you will respect me, your classmates, and our goals for being here together enough that you’ll honor that trust.",
     "crumbs": [
       "At a Glance",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course at a Glance</span>"
@@ -125,10 +125,10 @@
     "href": "about.html",
     "title": "Course Content",
     "section": "",
-    "text": "Learning Targets\nMTH 321 introduces basic techniques and theory of ordinary differential equations, especially as related to problems in the physical sciences. It is aimed at math, engineering, and science majors that have taken the first two semesters of calculus.\nSpecific topics will include\nOther topics may be covered as time allows.\nIn addition to these specific mathematical topics, our learning goals also include:\nCertain affective traits (i.e., dispositions and habits that are useful for all learners, regardless of topic) are also valued, such as persistence and growth mindset, and the development of these qualities will be fostered by the course.\nMTH :: Mathematical Practice\nDE :: Basic Concepts of Differential Equations\nFO :: Solving First-Order Equations\nSE :: Systems of Equations\nSO :: Second-Order Equations\nLT :: Laplace Transform Methods",
+    "text": "MTH 304 introduces the fundamental ideas and tool of complex variables and functions. A large part of this course is devoted to extending basic concepts from calculus to this new framework. Along the way, we’ll get a glimpse how connecting the geometry of complex functions to ideas of calculus has far reaching consequences. Indeed, the study of complex variables opens up whole new avenues of research in a huge array of topics including algebraic geometry, analytic number theory, dynamical systems, signal analysis, and fluid mechanics just to name a few.\nSpecific topics that we’ll cover in this course include\n\nRepresentations of complex numbers\nFundamental complex-valued functions\nTopology and limits in the complex plane\nDerivatives and holomorphic functions\nSeries and analyticity\nContour integrals\nCauchy-Goursat theorem\nCauchy integral formula\nResidue theorem\n\nIn addition to these specific mathematical topics, our learning goals also include:\n\ncommunicating mathematics effectively\ndeveloping strategies for solving challenging, multi-step problems\ndeveloping a practice of self-reflection on one’s own learning.\n\nCertain affective traits (i.e., dispositions and habits that are useful for all learners, regardless of topic) are also valued, such as persistence and growth mindset, and the development of these qualities will be fostered by the course.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Content</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Course Content</span>"
     ]
   },
   {
@@ -139,216 +139,216 @@
     "text": "I can effectively communicate understanding of course content and solution methods.\nI can demonstrate perseverance in solving complex problems.\nI can reflect on my own learning practices.\n\n\n\nI can demonstrate an understanding of the concept of a solution to a differential equation, including the distinction between a general solution and a particular solution.\nI can find equilibria of first order autonomous equations and analyze their stability using a variety of methods.\nI can find bifurcation values and use bifurcation diagrams to describe how a system depends on a parameter.\nI can use slope fields or other graphical methods to analyze and describe the behavior of solutions to first order equations.\nI can use differential equations to build and/or analyze models of physical phenomenon.\n\n\n\nI can solve first-order equations using separation of variables\nI can solve first-order linear equations using other analytic methods such as variation of parameters or undetermined coefficients.\n\n\n\nI can determine equilibria and analyze behavior of system of equations using nullclines and/or phase planes.\nI can find eigenvalues of a two-dimensional linear system and use them to construct phase planes and to describe the qualitative behavior of solutions.\nI can find explicit solutions to two-dimensional linear systems\n\n\n\nI can find the general solution to 2nd order linear equations with constant coefficients.\nI can describe how parameters affect the behavior of solutions to mass-spring equation.\n\n\n\nI can apply the definition and basic properties of the Laplace transform.\nI can use the Laplace transform to solve or analyze differential equations involving Heaviside functions.\nI can use the Laplace transform to solve or analyze differential equations involving impulse forcing.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Content</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Course Content</span>"
     ]
   },
   {
     "objectID": "structure.html",
     "href": "structure.html",
-    "title": "4  Course Structure",
+    "title": "6  Course Structure",
     "section": "",
-    "text": "4.1 Attendence\nIn broad strokes, this course is designed to engage you with rich problems in a collaborative setting. In class, we will often work in small groups on activities designed to engage and practice working with the course content. Outside of class, you will have assignments to practice what we’ve learned and to stretch your problem solving skills. You will also be asked to reflect on your learning – mathematics is as much about the problem solving process as it is about finding a correct answer and so reflecting and writing about your work is an important part of what we’ll do.\nSince we will be doing much of our learning through collaborative in-class activities, it’s important that you to come to class prepared to engage and participate. That said, I also recognize that for many reasons, this will not always be possible. If you need to miss class just let me know – there is no penalty apart from missing out on that day’s activity. If you miss class often, you can expect me to reach out to see how I can support you coming to class.\nPoem 013: Did I Miss Anything? by Tom Wyman\nI will do my best to post on Moodle a short summary of what we do in class, so if you do miss class, you should look there to see what we did that day. You may also find it helpful if you’re able to check-in with a classmate to see what we covered. Finally, I’m always available in office hours to discuss anything you missed.",
+    "text": "6.1 Attendence\nSince we will be doing much of our learning through collaborative in-class activities, it’s important that you to come to class prepared to engage and participate. That said, I also recognize that for many reasons, this will not always be possible. If you need to miss class just let me know – there is no penalty apart from missing out on that day’s activity. If you miss class often, you can expect me to reach out to see how I can support you coming to class.\nPoem 013: Did I Miss Anything? by Tom Wyman\nI will do my best to post on Moodle a short summary of what we do in class, so if you do miss class, you should look there to see what we did that day. You may also find it helpful if you’re able to check-in with a classmate to see what we covered. Finally, I’m always available in office hours to discuss anything you missed.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Course Structure</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
     ]
   },
   {
     "objectID": "structure.html#weekly-homework",
     "href": "structure.html#weekly-homework",
-    "title": "4  Course Structure",
-    "section": "4.2 Weekly Homework",
-    "text": "4.2 Weekly Homework\nMost weeks I will assign several problems that give you a chance to engage with and practice using the concepts introduced in class. Completing these problems will help you work toward gaining proficiency in the course learning targets.\nSome homework problems may feel straightforward and similiar to work done in class, while others are meant to challenge you. This means that you might not see how to begin a problem right away. This is intentional! If, after thinking about a problem for day or so, you’re still stuck, let me know and I can give you suggestions.\nHomework is also an opportunity to practice effective communication of your understanding. Your goal when writing up a solution is not just to find an answer, but to convince your reader that your solution is reasonable. As such, you should strive to write clearly, legibly, and (whenever appropriate) in complete sentences. If your reader can’t follow your reasoning, or read your writing, then you have not achieved this goal. See the section on Writing Mathematics for more hints about how to write mathematics effectively.\n\n4.2.1 Homework Reports\nHomework is a place to be challenged, make mistakes, struggle productively, and learn how to proceed in the face of uncertainty. Overall, the benefit of homework lies as much in the process as it does in producing a correct answer. For this reason, weekly homework will not be graded in the traditional sense. Instead of handing in solutions to all of the homework problems, we will discuss solutions in class and you will submit a homework report which should include:\n\na list of problems that you attempted and completed\na short description of the questions that came up for you while you worked on the homework\nIf you have solution that you would like feedback on, you may include that with your report (limit one per week). This is entirely optional.",
+    "title": "6  Course Structure",
+    "section": "6.5 Weekly Homework",
+    "text": "6.5 Weekly Homework\nMost weeks I will assign several problems that give you a chance to engage with and practice using the concepts introduced in class. Completing these problems will help you work toward gaining proficiency in the course learning targets.\nSome homework problems may feel straightforward and similiar to work done in class, while others are meant to challenge you. This means that you might not see how to begin a problem right away. This is intentional! If, after thinking about a problem for day or so, you’re still stuck, let me know and I can give you suggestions.\nHomework is also an opportunity to practice effective communication of your understanding. Your goal when writing up a solution is not just to find an answer, but to convince your reader that your solution is reasonable. As such, you should strive to write clearly, legibly, and (whenever appropriate) in complete sentences. If your reader can’t follow your reasoning, or read your writing, then you have not achieved this goal. See the section on Writing Mathematics for more hints about how to write mathematics effectively.\n\n6.5.1 Homework Reports\nHomework is a place to be challenged, make mistakes, struggle productively, and learn how to proceed in the face of uncertainty. Overall, the benefit of homework lies as much in the process as it does in producing a correct answer. For this reason, weekly homework will not be graded in the traditional sense. Instead of handing in solutions to all of the homework problems, we will discuss solutions in class and you will submit a homework report which should include:\n\na list of problems that you attempted and completed\na short description of the questions that came up for you while you worked on the homework\nIf you have solution that you would like feedback on, you may include that with your report (limit one per week). This is entirely optional.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Course Structure</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
     ]
   },
   {
     "objectID": "structure.html#application-and-extension-problems-aep",
     "href": "structure.html#application-and-extension-problems-aep",
-    "title": "4  Course Structure",
-    "section": "4.3 Application and Extension Problems (AEP)",
-    "text": "4.3 Application and Extension Problems (AEP)\nIn addition to regular weekly homework, I will also periodically assign Application/Extension Problems. These are more challenging or longer multi-step problems designed to give you a chance to think more deeply about concepts and to practice your problem solving skills. Sometimes they will look at applications of material we have covered, other times they may delve more deeply into theory that we’ve seen in class; they may even introduce new material that is not covered in class. AEP assignments will also typically require more extensive writing to clearly communicate your work.\nAEP assignments will generally be due two weeks from when they are assigned. After getting feedback on your assignment, if you would like to revise and resubmit you may do so within one week. Revisions should be written up separately - do not simply squeeze corrections into the margin of your original paper. You should also include a short summary of your revisions, i.e. tell me what you’ve done to address my feedback or any other changes that you made. Note: to be eligible to revise and resubmit, papers should make an honest effort at completion.\nAn AEP assignment will be considered complete when all the feedback regarding both mathematical content as well as effective communication has been addressed.",
+    "title": "6  Course Structure",
+    "section": "6.6 Application and Extension Problems (AEP)",
+    "text": "6.6 Application and Extension Problems (AEP)\nIn addition to regular weekly homework, I will also periodically assign Application/Extension Problems. These are more challenging or longer multi-step problems designed to give you a chance to think more deeply about concepts and to practice your problem solving skills. Sometimes they will look at applications of material we have covered, other times they may delve more deeply into theory that we’ve seen in class; they may even introduce new material that is not covered in class. AEP assignments will also typically require more extensive writing to clearly communicate your work.\nAEP assignments will generally be due two weeks from when they are assigned. After getting feedback on your assignment, if you would like to revise and resubmit you may do so within one week. Revisions should be written up separately - do not simply squeeze corrections into the margin of your original paper. You should also include a short summary of your revisions, i.e. tell me what you’ve done to address my feedback or any other changes that you made. Note: to be eligible to revise and resubmit, papers should make an honest effort at completion.\nAn AEP assignment will be considered complete when all the feedback regarding both mathematical content as well as effective communication has been addressed.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Course Structure</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
     ]
   },
   {
     "objectID": "structure.html#due-dates-and-extensions",
     "href": "structure.html#due-dates-and-extensions",
-    "title": "4  Course Structure",
-    "section": "4.4 Due Dates and Extensions",
-    "text": "4.4 Due Dates and Extensions\nJust like in the “real world”, due dates in this class exist and are important but there’s usually a certain amount of flexibility. Life happens and sometimes circumstances may prevent you from completing an assignment on time. Or maybe you simply want a little more time to finish. For these reasons, you can (almost) always request an extension – just send me an email. Note that if you ask for lots of extensions, you can expect that I will reach out to see if we can work together to find ways for you to keep up with the work in the course.\nThat said, there are reasons for having due dates. For one thing, they help you organize your life by helping you know how to budget your time. For another, they help me organize my life – in particular, they help me keep up on getting your work back to you. If you hand in work after the due date, I cannot guarantee that I will get it back to you with useful feedback.\n\nHard Deadlines\nTo prevent work from backing up, there are two hard deadlines in this course - one is February 28th (the Friday before spring break) and the other is May 2nd (the last day of classes). Late work will not be accepeted after those dates, except by prior arrangment.",
+    "title": "6  Course Structure",
+    "section": "6.7 Due Dates and Extensions",
+    "text": "6.7 Due Dates and Extensions\nJust like in the “real world”, due dates in this class exist and are important but there’s usually a certain amount of flexibility. Life happens and sometimes circumstances may prevent you from completing an assignment on time. Or maybe you simply want a little more time to finish. For these reasons, you can (almost) always request an extension – just send me an email. Note that if you ask for lots of extensions, you can expect that I will reach out to see if we can work together to find ways for you to keep up with the work in the course.\nThat said, there are reasons for having due dates. For one thing, they help you organize your life by helping you know how to budget your time. For another, they help me organize my life – in particular, they help me keep up on getting your work back to you. If you hand in work after the due date, I cannot guarantee that I will get it back to you with useful feedback.\n\nHard Deadlines\nTo prevent work from backing up, there are two hard deadlines in this course - one is February 28th (the Friday before spring break) and the other is May 2nd (the last day of classes). Late work will not be accepeted after those dates, except by prior arrangment.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Course Structure</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
     ]
   },
   {
     "objectID": "structure.html#check-ins-quizzes",
     "href": "structure.html#check-ins-quizzes",
-    "title": "4  Course Structure",
-    "section": "4.5 Check-Ins (Quizzes)",
-    "text": "4.5 Check-Ins (Quizzes)\nYour progress in this course will be measured primarily by demonstrating proficiency on specific learning targets that correspond to the main topics covered in the course. We will have regular short in-class check-ins (roughly one per week) throughout the semester which are opportunities for you to demonstrate your knowledge and understanding of these topics. A list of these topics can be found in Section 3.1, and is also posted on Moodle.\nTypically, each check-in will have a few problems that cover the Learning Targets that we’ve covered most recently. Each learning target will appear on an in-class check-in at least twice.\nYour progress on each Learning Target will be described in one of the following ways:\n\nProficient: You have demonstrated good understanding of this topic without any errors.\nMinor Revisions Needed: You have demonstrated a fairly complete understanding of this learning target but your work contains either minor errors or a small gap in your explanation.\nTo change this to Proficient you should submit a revised solution, along with a short description of what the error/gap was and how you corrected it. Write your revision on a new piece of paper and staple that on top of your original submission. This revision must be submitted within one week.\nNot Yet Proficient: Partial understanding is evident, but gaps still remain indicating that further study is needed.\nIncomplete: Fragmentary response provided; or solution is attempted using inappropriate methodology.\n\n\n4.5.1 Re-assessments\nEach content learning target will appear on at least two in-class check-ins, so if you aren’t able to demonstrate proficiency the first time it appears, you will have another chance to re-assess on another week. In addition to our weekly check-ins, there are a few other ways that you can demonstrate proficiency:\n\nYou may do a re-assessment during drop-in hours - note that during drop-in hours, I will prioritize students who are there with questions. You should let me know in advance which Learning Target you want to re-assess (so that I’m prepared) and you must bring a re-assessment ticket with you (see below).\nYou may schedule a re-assessment using my Calendly link.\nThere will be one mid-semester check-in and one final check-in which will include all learning targets covered up to that point.\n\nFinally, please note the following restrictions on re-assessing:\n\nYou may not attempt more than two (2) re-assessments outside of class for a particular learning target. This does not include the mid-semester or final check-in.\nYou may not attempt to re-assess more than one learning target at a time. Exceptions to this may be made in certain cases where Learning Targets are closely aligned.\nNo re-assessments, other than the final check-in, will be given during finals week.\n\n\n\n4.5.2 Re-assessment Ticket\nIf you are reassessing a learning target outside of class, you must submit written responses, on a separate piece of paper, to the following questions at the time of your reassessment:\n\nWhat were your mistakes/gaps/sticking points on your previous attempt?\nWhat steps did you take to improve your understanding? Did you re-do the problem? List any resources you used to study and prepare for this attempt.",
+    "title": "6  Course Structure",
+    "section": "6.8 Check-Ins (Quizzes)",
+    "text": "6.8 Check-Ins (Quizzes)\nYour progress in this course will be measured primarily by demonstrating proficiency on specific learning targets that correspond to the main topics covered in the course. We will have regular short in-class check-ins (roughly one per week) throughout the semester which are opportunities for you to demonstrate your knowledge and understanding of these topics. A list of these topics can be found in Section 5.1, and is also posted on Moodle.\nTypically, each check-in will have a few problems that cover the Learning Targets that we’ve covered most recently. Each learning target will appear on an in-class check-in at least twice.\nYour progress on each Learning Target will be described in one of the following ways:\n\nProficient: You have demonstrated good understanding of this topic without any errors.\nMinor Revisions Needed: You have demonstrated a fairly complete understanding of this learning target but your work contains either minor errors or a small gap in your explanation.\nTo change this to Proficient you should submit a revised solution, along with a short description of what the error/gap was and how you corrected it. Write your revision on a new piece of paper and staple that on top of your original submission. This revision must be submitted within one week.\nNot Yet Proficient: Partial understanding is evident, but gaps still remain indicating that further study is needed.\nIncomplete: Fragmentary response provided; or solution is attempted using inappropriate methodology.\n\n\n6.8.1 Re-assessments\nEach content learning target will appear on at least two in-class check-ins, so if you aren’t able to demonstrate proficiency the first time it appears, you will have another chance to re-assess on another week. In addition to our weekly check-ins, there are a few other ways that you can demonstrate proficiency:\n\nYou may do a re-assessment during drop-in hours - note that during drop-in hours, I will prioritize students who are there with questions. You should let me know in advance which Learning Target you want to re-assess (so that I’m prepared) and you must bring a re-assessment ticket with you (see below).\nYou may schedule a re-assessment using my Calendly link.\nThere will be one mid-semester check-in and one final check-in which will include all learning targets covered up to that point.\n\nFinally, please note the following restrictions on re-assessing:\n\nYou may not attempt more than two (2) re-assessments outside of class for a particular learning target. This does not include the mid-semester or final check-in.\nYou may not attempt to re-assess more than one learning target at a time. Exceptions to this may be made in certain cases where Learning Targets are closely aligned.\nNo re-assessments, other than the final check-in, will be given during finals week.\n\n\n\n6.8.2 Re-assessment Ticket\nIf you are reassessing a learning target outside of class, you must submit written responses, on a separate piece of paper, to the following questions at the time of your reassessment:\n\nWhat were your mistakes/gaps/sticking points on your previous attempt?\nWhat steps did you take to improve your understanding? Did you re-do the problem? List any resources you used to study and prepare for this attempt.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Course Structure</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
     ]
   },
   {
     "objectID": "structure.html#mid-semester-and-final-check-ins",
     "href": "structure.html#mid-semester-and-final-check-ins",
-    "title": "4  Course Structure",
-    "section": "4.6 Mid-Semester and Final Check-Ins",
-    "text": "4.6 Mid-Semester and Final Check-Ins\nThere will be a mid-semester check-in on February 27th. This is no different from our prior check-ins except that there will be problems covering every learning target that we’ve covered up to that point.\nWe will also have a final check-in to give you one last opportunity to re-assess any learning targets. This is scheduled for:\n\nWednesday, April 30th, 1:30pm-3:30pm.\n\nAgain, this final check-in is no different than previous in-class check-ins except that it will include all learning targets that we’ve covered. In particular, if you have already earned all the Proficiencies that you need/want, you do not need to attend this final check-in.\nIn addition to this in-class check-in, a final reflection assignment will be posted on Moodle to be completed by Thursday, May 1st.",
+    "title": "6  Course Structure",
+    "section": "6.6 Mid-Semester and Final Check-Ins",
+    "text": "6.6 Mid-Semester and Final Check-Ins\nThere will be a mid-semester check-in on February 27th. This is no different from our prior check-ins except that there will be problems covering every learning target that we’ve covered up to that point.\nWe will also have a final check-in to give you one last opportunity to re-assess any learning targets. This is scheduled for:\n\nWednesday, April 30th, 1:30pm-3:30pm.\n\nAgain, this final check-in is no different than previous in-class check-ins except that it will include all learning targets that we’ve covered. In particular, if you have already earned all the Proficiencies that you need/want, you do not need to attend this final check-in.\nIn addition to this in-class check-in, a final reflection assignment will be posted on Moodle to be completed by Thursday, May 1st.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Course Structure</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
     ]
   },
   {
     "objectID": "grades.html",
     "href": "grades.html",
-    "title": "5  Grades",
+    "title": "7  Grades",
     "section": "",
-    "text": "5.1 Learning Targets\nGrades, as they are traditionally thought of, are inherently imprecise and don’t represent a full picture of your growth and learning over the course of a semester. Worse than that, research suggests that grades undermine the learning process in several ways:\nWhile I am required to submit a grade for each student at the end of the semester – I will do what I can to de-emphasize the role of grades in this course so that as much as possible our focus is on learning.\nWe will rely extensively on qualitative rather than quantitative feedback to assess your progress in the course. Your understanding of the material will be assessed primarily through demonstrating proficiency on the learning targets listed in Section 3.1.\nAlthough the posted learning targets point to fairly specific topics, there are still a wide array of problems that might demonstrate proficiency. For this reason, you should aim to demonstrate proficiency at least twice on each target by the end of the semester. I will keep track (and I encourage you to keep track as well) every time to demonstrate proficient work.",
+    "text": "7.1 Qualitative Assessment\nFor these reasons, we will focus on qualitative not quantitative assessment. I will not be grading individual assignments but will instead give you feedback and comments that engage your work rather than simply evaluate it. After addressing that feedback, you’re encouraged to resubmit for further feedback.\nThroughout the semester, I will periodically ask you to reflect carefully on your work and to evaluate your progress. You will collect evidence of your understanding of the course content and based on that evidence, you will be asked to suggest a final course grade. In this way, we will determine your your grade collaboratively.\nThe intention here is to help you focus on learning in a way that is more organic, as opposed to simply working as you think you’re expected to. If this process causes more anxiety than it alleviates, please see me at any point to confer about your progress in the course – I’m always happy to talk with you about your learning!\nHere some of the many ways that you might demonstrate your understanding of the course material:\nWhile I am required to submit a grade for each student at the end of the semester – I will do what I can to de-emphasize the role of grades in this course so that as much as possible our focus is on learning.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Grades</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Grades</span>"
     ]
   },
   {
     "objectID": "grades.html#engagement",
     "href": "grades.html#engagement",
-    "title": "5  Grades",
-    "section": "5.2 Engagement",
-    "text": "5.2 Engagement\nAlthough your course grade will be based primarily on your understanding of course content and not on course engagement, in my experience these typically go hand in hand. So while engagement in the course is not itself evidence of understanding, it does usually help us achieve that goal.\nHere are some ways that you can engage with the class:\n\nAttend class regularly\nComplete assigned problems before class so you’re prepared to engage with that day’s material\nContribute to in-class group work\nComplete weekly homework reports\nComplete periodic check-ins\nCome to drop-in hours to ask questions\nComplete homework and AEPs on time – and asking for help when needed",
+    "title": "7  Grades",
+    "section": "7.3 Engagement",
+    "text": "7.3 Engagement\nAlthough your course grade will be based primarily on your understanding of course content and not on course engagement, in my experience these typically go hand in hand. So while engagement in the course is not itself evidence of understanding, it does usually help us achieve that goal.\nHere are some ways that you can engage with the class:\n\nCome to class regularly, prepared to discuss that day’s Tasks. Work to make sense of new definitions or theorems (even if incorrrect!). Try multiple approaches; include errors and comments on your thought process.\nVolunteer to present your work. If you’re not comfortable sharing your work with the whole class, you can share it in groups or during drop-in hours.\nActively participate in class discussions and group work. This can take many forms – e.g. sharing your own work, asking questions, or helping to facilitate the discussion.\nComplete assignments on time. Actively seek out resources to catch up if you miss class or if you have questions.\nSupport classmates and help them succeed.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Grades</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Grades</span>"
     ]
   },
   {
     "objectID": "grades.html#grade-guidelines",
     "href": "grades.html#grade-guidelines",
-    "title": "5  Grades",
-    "section": "5.3 Grade Guidelines",
-    "text": "5.3 Grade Guidelines\nIn thinking about course grades, I find it helpful to begin with qualitative descriptions of what particular grades might signify. We can then think about ways you might demonstrate learning that aligns with these descriptions.\n\n\n\n\n\n\n\nA\n\nThis grade generally indicates a deep understanding of the material such that you could apply the material in unfamiliar or especially complex situations. Evidence of deep understanding might include\n\n\n\ndemonstration of proficiency on all (or almost all) of the content learning targets at least twice.\ncompletion of all AEPs in terms of both mathematical content as well as effective communication\n\n\n\n\n\n\n\n\n\n\n\nB\n\nThis grade indicates good work that is eminently satisfactory. You should be able to use and extend this knowledge in many situations although you might have difficulty with particularly challenging or unfamiliar problems. Evidence of this learning might include\n\n\n\ndemonstration of proficiency on most (more than half) of the learning targets at least twice\ncompletion of most of the AEPs including both mathematical content as well as effective communication\n\n\n\n\n\n\n\n\n\n\n\nC\n\nThis grade indicates competent work that demonstrates a basic understanding of the course material. You should be able to handle most of the more straightforward problems encountered but might struggle with more challenging problems. Evidence of a C might include:\n\n\n\nProficiency on some of the learning targets at least twice; or most of the learning targets at least once.\nCompletion of some the AEPs\n\n\n\n\n\n\n\n\n\n\n\nD/F\n\nThese grades represent a fundamental breakdown of expectations. A D represents a meaningful but unsuccessful attempt at earning a C or above. An F represents such a severe lack of engagement, effort, or understanding that there is no evidence of meaningful progress.\n\n\n\n\n\nA modifier may be added to your grade to acccount for engagement:\n\nA + modifier might be added to your grade if you’ve met the standards for a particular grade and you’ve engaged in the course in particularly significant ways.\nA - modifier might be added to your grade if you’ve met the standard for particular grade but have engaged minimally in the course.",
+    "title": "7  Grades",
+    "section": "7.2 Grade Guidelines",
+    "text": "7.2 Grade Guidelines\nIf find it helpful to start with a qualitative description of what particular grades represent.\n\n\n\n\n\n\nA\n\n\n\nThis grade generally indicates superior work that demonstrates a deep understanding of all of the course the material such that you could apply the material to new or unfamiliar situations. You can consistently demonstrate this understanding in a wide variety of ways.\nA very good way to demonstrate an ability to extend your understanding to new topics is work beyond the material in the course notes. There are lots of applications of complex functions relevant as well as many interesting mathematical topics with connections to complex analysis. If you would like to explore additional topics, let me know and I can point you to additional resources.\n\n\n\n\n\n\n\n\nB\n\n\n\nThis grade indicates good work that is eminently satisfactory. You will be able to use and extend this knowledge in many situations. To earn a B, you should consistently and/or frequently meet many criteria from the list above.\n\n\n\n\n\n\n\n\nC\n\n\n\nThis grade indicates competent work that demonstrates an acceptable level of knowledge relevant to the course. To earn a C, you might consistently meet only a few of the criteria listed above or else meet several criteria but less often. In other words, maybe you do a few things very well and consistently, or else do many things fairly well but less often.\n\n\n\n\n\n\n\n\nD/F\n\n\n\nThese grades represent a fundamental breakdown of expectations. A D represents a meaningful but unsuccessful attempt at earning a C or above. An F represents such a severe lack of engagement, effort, or understanding that there is no evidence of meaningful progress.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Grades</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Grades</span>"
     ]
   },
   {
     "objectID": "writing.html",
     "href": "writing.html",
-    "title": "6  Writing Mathematics",
+    "title": "8  Writing Mathematics",
     "section": "",
-    "text": "6.1 General Guidelines\nOne of the goals of this course is to hone your skill in communicating complex technical ideas, particularly in writing. Your aim is not simply to come up with a correct solution, but you must also convince someone else that you know what you’re talking about!\nA good solution is one that effectively communicates not only the mathematical ideas needed, but an explanation of how you got there. Like any piece of writing, you should expect to write, proofread, and edit multiple drafts of your work.\nThe following are some general suggestions for effective communication in mathematics.",
+    "text": "8.1 General Guidelines\nThe following are some general suggestions for effective communication in mathematics.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Writing Mathematics</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Writing Mathematics</span>"
     ]
   },
   {
     "objectID": "writing.html#general-guidelines",
     "href": "writing.html#general-guidelines",
-    "title": "6  Writing Mathematics",
+    "title": "8  Writing Mathematics",
     "section": "",
     "text": "Write using complete sentences. In particular, all mathematical notation and expressions should be part of a sentence. You can tell that you’ve done this adequately if you can read what you’ve written aloud - verbatim - and it makes sense.\nDon’t rely on symbols and notations alone, use words to explain how you’re getting from one step to the next.\nThink about who your audience is and include an appropriate amount of detail. Your reader should be convinced that your solution is correct without having to fill in any missing steps.\nRespect your reader. This means that your solution should clear, easy to read, and free of spelling and grammatical errors, even if the mathematical steps are correct. Don’t ask them to put in more work than necessary to understand your solution!\nYou should first work out the solutions on scratch paper and then neatly write up your solutions. Do not hand in your scratch paper.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Writing Mathematics</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Writing Mathematics</span>"
     ]
   },
   {
     "objectID": "writing.html#specific-instructions",
     "href": "writing.html#specific-instructions",
-    "title": "6  Writing Mathematics",
-    "section": "6.2 Specific Instructions",
-    "text": "6.2 Specific Instructions\nHere are some specific instructions regarding how you should submit your work.\n\nPapers with multiple pages should be stapled in the upper left hand corner. If your paper has been torn out of a spiral notebook, remove the fringes.\nWriting should be neat, legible, and not too small. If your handwriting is not up to the task, you might consider using a typesetting enviornment such as LaTeX or Typst. I can help you get started with these tools.\nInclude your name, the date, the class and section number, and the name of the assignment.\nProblems should be clearly labeled and numbered on the left side of the paper. Leave a visible separation between problems. Write the problems in order.\nBegin your solution with the original problem statement (or a paraphrasing of such). Do not assume that your reader has the problem statement in front of them.\nUse whitespace on the margins and between problems to make your solutions easier to read. Leave room in the margins for comments.\nIf you worked with other students on a problem, acknowledge their contributions.\nIf you used technology on a problem, acknowledge where and how.\nAssignments submitted electronically should be submitted as a single PDF file. If scanned, make sure your images are clear and not cropped. Take care that pages are in the correct order and are rotated to the proper orientation. File names should include some identifying information such as your last name and what assignment this is (imagine this file in a folder with submissions from other students).",
+    "title": "8  Writing Mathematics",
+    "section": "8.2 Specific Instructions",
+    "text": "8.2 Specific Instructions\nHere are some specific instructions regarding how you should submit your work.\n\nPapers with multiple pages should be stapled in the upper left hand corner. If your paper has been torn out of a spiral notebook, remove the fringes.\nWriting should be neat, legible, and not too small. If your handwriting is not up to the task, you might consider using a typesetting enviornment such as LaTeX or Typst. I can help you get started with these tools.\nInclude your name, the date, the class and section number, and the name of the assignment.\nProblems should be clearly labeled and numbered on the left side of the paper. Leave a visible separation between problems. Write the problems in order.\nBegin your solution with the original problem statement (or a paraphrasing of such). Do not assume that your reader has the problem statement in front of them.\nUse whitespace on the margins and between problems to make your solutions easier to read. Leave room in the margins for comments.\nIf you worked with other students on a problem, acknowledge their contributions.\nIf you used technology on a problem, acknowledge where and how.\nAssignments submitted electronically should be submitted as a single PDF file. If scanned, make sure your images are clear and not cropped. Take care that pages are in the correct order and are rotated to the proper orientation. File names should include some identifying information such as your last name and what assignment this is (imagine this file in a folder with submissions from other students).",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Writing Mathematics</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Writing Mathematics</span>"
     ]
   },
   {
     "objectID": "UPElements.html",
     "href": "UPElements.html",
-    "title": "7  University Policies",
+    "title": "9  University Policies",
     "section": "",
-    "text": "7.1 Academic Integrity\nThe University of Portland is a diverse academic community of learners and scholars who are dedicated to freely sharing ideas and engaging in respectful discussion of those ideas to discover truth. Such pursuits require each person, whether student or faculty, to present truthfully our own ideas and give credit to others for the ideas that they generate. Thus, cheating on exams, copying another student’s assignment, including homework, or using the work of others without proper citation are some examples of violating academic integrity.\nEspecially for written and oral assignments, students have an ethical responsibility to properly cite the authors of any books, articles, or other sources that they use. Students should expect to submit assignments to Turnitin, a database that ensures assignments are original work of the student submitting. Each discipline has guidelines for how to give appropriate credit, and instructors will communicate the specific guidelines for their discipline. The Clark Library also maintains a webpage that provides citation guidelines at libguides.up.edu/cite.\nThe misuse of AI to shortcut course learning outcomes will be treated as a violation of academic integrity comparable to plagiarism or cheating. Faculty are responsible for including a written “Course AI Policy” in their syllabi that clearly states what they consider appropriate and inappropriate uses of AI in the context of their courses. Students are responsible for using AI in ways that do not detract from the established learning outcomes of the course. All members of the scholarly community are responsible for demonstrating sound judgment in discerning when and how to utilize AI in their work, upholding standards of citation, originality, and integrity.",
+    "text": "9.1 Academic Integrity\nThe University of Portland is a diverse academic community of learners and scholars who are dedicated to freely sharing ideas and engaging in respectful discussion of those ideas to discover truth. Such pursuits require each person, whether student or faculty, to present truthfully our own ideas and give credit to others for the ideas that they generate. Thus, cheating on exams, copying another student’s assignment, including homework, or using the work of others without proper citation are some examples of violating academic integrity.\nEspecially for written and oral assignments, students have an ethical responsibility to properly cite the authors of any books, articles, or other sources that they use. Students should expect to submit assignments to Turnitin, a database that ensures assignments are original work of the student submitting. Each discipline has guidelines for how to give appropriate credit, and instructors will communicate the specific guidelines for their discipline. The Clark Library also maintains a webpage that provides citation guidelines at libguides.up.edu/cite.\nThe misuse of AI to shortcut course learning outcomes will be treated as a violation of academic integrity comparable to plagiarism or cheating. Faculty are responsible for including a written “Course AI Policy” in their syllabi that clearly states what they consider appropriate and inappropriate uses of AI in the context of their courses. Students are responsible for using AI in ways that do not detract from the established learning outcomes of the course. All members of the scholarly community are responsible for demonstrating sound judgment in discerning when and how to utilize AI in their work, upholding standards of citation, originality, and integrity.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>University Policies</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>University Policies</span>"
     ]
   },
   {
     "objectID": "UPElements.html#assessment-disclosure",
     "href": "UPElements.html#assessment-disclosure",
-    "title": "7  University Policies",
-    "section": "7.2 Assessment Disclosure",
-    "text": "7.2 Assessment Disclosure\nStudent work products for this course may be used by the University for educational quality assurance purposes. For reasons of confidentiality, such examples will not include student names.",
+    "title": "9  University Policies",
+    "section": "9.2 Assessment Disclosure",
+    "text": "9.2 Assessment Disclosure\nStudent work products for this course may be used by the University for educational quality assurance purposes. For reasons of confidentiality, such examples will not include student names.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>University Policies</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>University Policies</span>"
     ]
   },
   {
     "objectID": "UPElements.html#accessibility",
     "href": "UPElements.html#accessibility",
-    "title": "7  University Policies",
-    "section": "7.3 Accessibility",
-    "text": "7.3 Accessibility\nThe University of Portland strives to make its courses and services fully accessible to all students. Students are encouraged to discuss with their instructors what might be most helpful in enabling them to meet the learning goals of the course. Students who experience a disability are encouraged to use the services of the Office for Accessible Education Services (AES), located in the Shepard Academic Resource Center (503-943- 8985). If you have an AES Accommodation Plan, you should meet with your instructor to discuss how to implement your plan in this class. Requests for alternate location for exams and/or extended exam time should, where possible, be made two weeks in advance of an exam, and must be made at least one week in advance of an exam. Also, if applicable, you should meet with your instructor to discuss emergency medical information or how best to ensure your safe evacuation from the building in case of fire or other emergency. All information that students provide regarding disability or accommodation is confidential. All students are responsible for completing the required coursework and are held to the same evaluation standards specified in the course syllabus.",
+    "title": "9  University Policies",
+    "section": "9.3 Accessibility",
+    "text": "9.3 Accessibility\nThe University of Portland strives to make its courses and services fully accessible to all students. Students are encouraged to discuss with their instructors what might be most helpful in enabling them to meet the learning goals of the course. Students who experience a disability are encouraged to use the services of the Office for Accessible Education Services (AES), located in the Shepard Academic Resource Center (503-943- 8985). If you have an AES Accommodation Plan, you should meet with your instructor to discuss how to implement your plan in this class. Requests for alternate location for exams and/or extended exam time should, where possible, be made two weeks in advance of an exam, and must be made at least one week in advance of an exam. Also, if applicable, you should meet with your instructor to discuss emergency medical information or how best to ensure your safe evacuation from the building in case of fire or other emergency. All information that students provide regarding disability or accommodation is confidential. All students are responsible for completing the required coursework and are held to the same evaluation standards specified in the course syllabus.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>University Policies</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>University Policies</span>"
     ]
   },
   {
     "objectID": "UPElements.html#mental-health",
     "href": "UPElements.html#mental-health",
-    "title": "7  University Policies",
-    "section": "7.4 Mental Health",
-    "text": "7.4 Mental Health\nAnyone can experience problems with their mental health that interfere with academic experiences and negatively impact daily life. If you or someone you know experiences mental health challenges at UP, please contact the University of Portland Counseling Center in the upper level of Orrico Hall (down the hill from Franz Hall and near Mehling Hall) at 503-943-7134 or hcc@up.edu. Their services are free and confidential. In addition, mental health consultation and support is available through the Pilot Helpline by calling 503-943-7134 and pressing 3. The University of Portland Campus Safety Department (503-943-4444) also has personnel trained to respond sensitively to mental health emergencies at all hours. Remember that getting help is a smart and courageous thing to do – for yourself, for those you care about, and for those who care about you. For more information on health and wellness resources at UP go to www.linktr.ee/wellnessUP.",
+    "title": "9  University Policies",
+    "section": "9.4 Mental Health",
+    "text": "9.4 Mental Health\nAnyone can experience problems with their mental health that interfere with academic experiences and negatively impact daily life. If you or someone you know experiences mental health challenges at UP, please contact the University of Portland Counseling Center in the upper level of Orrico Hall (down the hill from Franz Hall and near Mehling Hall) at 503-943-7134 or hcc@up.edu. Their services are free and confidential. In addition, mental health consultation and support is available through the Pilot Helpline by calling 503-943-7134 and pressing 3. The University of Portland Campus Safety Department (503-943-4444) also has personnel trained to respond sensitively to mental health emergencies at all hours. Remember that getting help is a smart and courageous thing to do – for yourself, for those you care about, and for those who care about you. For more information on health and wellness resources at UP go to www.linktr.ee/wellnessUP.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>University Policies</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>University Policies</span>"
     ]
   },
   {
     "objectID": "UPElements.html#non-violence",
     "href": "UPElements.html#non-violence",
-    "title": "7  University Policies",
-    "section": "7.5 Non-Violence",
-    "text": "7.5 Non-Violence\nThe University of Portland is committed to fostering a safe and respectful community free from all forms of violence. Violence of any kind, and in particular acts of power- based personal violence, are inconsistent with our mission. Together, all UP community members must take a stand against violence. Learn more about what interpersonal violence looks like, campus and community resources, UP’s prevention strategy, and what we as individuals can do to assist on the Green Dot website. Further information and reporting options may be found on the Title IX website.",
+    "title": "9  University Policies",
+    "section": "9.5 Non-Violence",
+    "text": "9.5 Non-Violence\nThe University of Portland is committed to fostering a safe and respectful community free from all forms of violence. Violence of any kind, and in particular acts of power- based personal violence, are inconsistent with our mission. Together, all UP community members must take a stand against violence. Learn more about what interpersonal violence looks like, campus and community resources, UP’s prevention strategy, and what we as individuals can do to assist on the Green Dot website. Further information and reporting options may be found on the Title IX website.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>University Policies</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>University Policies</span>"
     ]
   },
   {
     "objectID": "UPElements.html#ethics-of-information",
     "href": "UPElements.html#ethics-of-information",
-    "title": "7  University Policies",
-    "section": "7.6 Ethics of Information",
-    "text": "7.6 Ethics of Information\nThe University of Portland is a community dedicated to the investigation and discovery of processes for thinking ethically and encouraging the development of ethical reasoning in the formation of the whole person. Using information ethically, as an element in open and honest scholarly endeavors, involves moral reasoning to determine the right way to access, create, distribute, and employ information, including: considerations of intellectual property rights, fair use, information bias, censorship, and privacy. More information can be found in the Clark Library’s guide to the Ethical Use of Information.",
+    "title": "9  University Policies",
+    "section": "9.6 Ethics of Information",
+    "text": "9.6 Ethics of Information\nThe University of Portland is a community dedicated to the investigation and discovery of processes for thinking ethically and encouraging the development of ethical reasoning in the formation of the whole person. Using information ethically, as an element in open and honest scholarly endeavors, involves moral reasoning to determine the right way to access, create, distribute, and employ information, including: considerations of intellectual property rights, fair use, information bias, censorship, and privacy. More information can be found in the Clark Library’s guide to the Ethical Use of Information.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>University Policies</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>University Policies</span>"
     ]
   },
   {
     "objectID": "UPElements.html#the-learning-commons",
     "href": "UPElements.html#the-learning-commons",
-    "title": "7  University Policies",
-    "section": "7.7 The Learning Commons",
-    "text": "7.7 The Learning Commons\nStudents may receive academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and many other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the Learning Commons website. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or stop by the Learning Commons in BC 163 to learn more about their services. Co-Pilots are a wonderful support along your academic journey.",
+    "title": "9  University Policies",
+    "section": "9.7 The Learning Commons",
+    "text": "9.7 The Learning Commons\nStudents may receive academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and many other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the Learning Commons website. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or stop by the Learning Commons in BC 163 to learn more about their services. Co-Pilots are a wonderful support along your academic journey.",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>University Policies</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>University Policies</span>"
     ]
   },
   {
@@ -359,7 +359,128 @@
     "text": "MW\n10:00 - 11:00\n\n\nTR\n11:30 - 1:00\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSince I’m setting these times before the semester actually begins, these times may change if my schedule changes. If it turns out that I need to adjust them, I will let you know!",
     "crumbs": [
       "At a Glance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Student Support</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Student Support</span>"
+    ]
+  },
+  {
+    "objectID": "inquiry.html",
+    "href": "inquiry.html",
+    "title": "3  Inquiry Based Learning",
+    "section": "",
+    "text": "We will use a method of instruction sometimes called Inquiry Based Learning (IBL) which is designed to engage and foster skills and habits that working mathematicians use regularly; you will be asked to solve problems, make conjectures, experiment, explore, create, collaborate, and communicate your work with your peers. Rather than giving you facts to memorize or showing you clear paths to solutions, my role is to guide you via a sequence of carefully chosen problems through a journey of mathematical discovery.\nThroughout the semester, I will give you lists of definitions to interpret and make sense of, as well as a sequence of Tasks which you and your classmates will complete. These tasks are carefully chosen to build up your understanding of the course material. There will be very little traditional lecture. Instead, class time will consist largely of student presentations of new material. For best results, you should come to class prepared to share your work or ideas about that day’s problems. This method of inquiry does not work very well if you’re looking at a problem for the first time in class.\nI will ask you to share your solutions in class regularly, typically in smaller groups. You are encouraged to critique the problems (reformulating them if needed), to generate examples and counterexamples to theorems or conjectures, to formulate new theorems based on what you’ve learned, and to prove or disprove these conjectures. When observing another student’s presentation, it is your responsibility to follow their argument closely and decide if they have seems reasonable. If you cannot follow their logic, or have questions about their solution, it is your responsibility to ask!\n\n\n\n\n\n\nA key feature of the IBL method is student discovery and for that reason outside resources are not allowed. This means that you should not consult texts (other than the one handed out in class), the internet, students not currently enrolled in the course, or faculty other than myself. Consulting outside resources will only deprive yourself of opportunities to engage with the material authentically.\nYou are encouraged to work with your classmates on the problems, but for best results you should get as far as you can on your own before collaborating. It’s important that you do not feel overwhelmed – so please let me know if you’re stuck on a problem and I’ll be happy to give you hints.",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Inquiry Based Learning</span>"
+    ]
+  },
+  {
+    "objectID": "inquiry.html#sec-inquiry",
+    "href": "inquiry.html#sec-inquiry",
+    "title": "3  Inquiry Based Learning",
+    "section": "",
+    "text": "A key feature of the IBL method is student discovery and therefore outside resources are not allowed. This means that you should not consult texts (other than the one handed out in class), the internet, students not currently enrolled in the course, or faculty other than myself. Consulting outside resources will only deprive yourself of opportunities to engage with the material authentically.\nYou are encouraged to work with your classmates on the problems, but for best results you should get as far as you can on your own before collaborating. It’s important that you do not feel overwhelmed – so please let me know if you’re stuck on a problem and I’ll be happy to give you hints.",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Inquiry Based Learning</span>"
+    ]
+  },
+  {
+    "objectID": "structure.html#daily-tasks",
+    "href": "structure.html#daily-tasks",
+    "title": "6  Course Structure",
+    "section": "6.2 Daily Tasks",
+    "text": "6.2 Daily Tasks\nYour standing assignment is to do the Tasks in the notes. You should work ahead so that you come to class having completed - or at least worked on - the Tasks for that day, ready to discuss or present your solutions.\nWhile there is no requirement that everyone present their work, it is highly encouraged. The act of communicating your ideas to your classmates is a highly effective way to solidify and deepen your understanding of the material.\nWhile my hope is that this class is a safe and supportive learning environment in which everyone feels welcome to share their ideas, I recognize that some students may have some anxiety around sharing their work. If this is the case, please let me know and we can find alternative ways for you to participate.",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
+    ]
+  },
+  {
+    "objectID": "structure.html#written-homework",
+    "href": "structure.html#written-homework",
+    "title": "6  Course Structure",
+    "section": "6.3 Written Homework",
+    "text": "6.3 Written Homework\nMost every week, I will assign a short set of problems to write up and hand in. These might be new problems or they might be problems that we’ve seen in class already (i.e. daily Tasks).\nThis written homework serves a few different purposes. In many cases, it’s an opportunity to refine or fill in any gaps of solutions that came up in class. In other cases, it gives you a chance to extend or apply ideas from class to new problem. Finally, homework is a place to practice communicating your understanding to others. Your goal in completing the homework is not just to find a solution, but to convince your reader that your solution is reasonable.\nHomework is an opportunity to be challenged, make mistakes, struggle productively, and learn how to proceed in the face of uncertainty. Overall, the benefit lies as much in the process as it does in producing a correct answer.\n\n6.3.1 Feedback and Revisions\nWeekly homework will not be graded in the usual sense - instead, I will provide feedback that addresses your progress towards learning the material, as well as your effectiveness in communicating your ideas. If you would like to revise any of your homework problems after getting feedback, you may hand it back in for further feedback within one week.",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
+    ]
+  },
+  {
+    "objectID": "structure.html#due-dates",
+    "href": "structure.html#due-dates",
+    "title": "6  Course Structure",
+    "section": "6.5 Due Dates",
+    "text": "6.5 Due Dates\nJust like in the “real world”, due dates in this class exist and are important but there’s usually a certain amount of flexibility. Life happens and sometimes circumstances may prevent you from completing an assignment on time. Or maybe you simply want a little more time to finish. For these reasons, you can (almost) always request an extension – just send me an email. Note that if you ask for lots of extensions, you can expect that I will reach out to see if we can work together to find ways for you to keep up with the work in the course.\nThat said, there are reasons for having due dates. For one thing, they help you organize your life by helping you know how to budget your time. For another, they help me organize my life – in particular, they help me keep up on getting your work back to you. If you hand in work after the due date, I cannot guarantee that I will get it back to you with useful feedback.\n\nHard Deadlines\nTo prevent work from backing up, there are two hard deadlines in this course - one is February 28th (the Friday before spring break) and the other is April 21st (the last day of classes). Late work will not be accepeted after those dates, except by prior arrangment.",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
+    ]
+  },
+  {
+    "objectID": "structure.html#portfolio",
+    "href": "structure.html#portfolio",
+    "title": "6  Course Structure",
+    "section": "6.6 Portfolio",
+    "text": "6.6 Portfolio\nAs we proceed through the course material, I will periodically ask you to select examples of your work that demonstrate your understanding of the material. By the end of the semester, you should have a carefully curated collection of work that tells the story of you as a mathematician and student of complex variables and which provides evidence of your learning throughout the semester. Assembling your portfolio is also a way to reflect on the course as a whole.\n\nDue date Your portfolio should be complete by the last day of classes, April 25th. If you need more time, please let me know ahead of time.\nWhat do I include in the portfolio?\n\nTable of contents. List all items in the portfolio in the order they are included. Include the number and name of each Task or Homework Problem, or a title for any other items (e.g. Presentation of Task 54 on 2/23).\nArtifacts that provide evidence of your learning. These will likely include many of your homework problems or daily Tasks, but can include other items too. For example:\n\nDid you have great work on a daily prep, but didn’t present it? Share your notes!\nDid you give a presentation of a particularly significant problem? Include it!\nDid you work on optional problems, or Tasks that we skipped or didn’t get to?\nDid you research an application or theorem that we didn’t cover?\n\nInclude with each artifact a brief explanation of how it reflects your learning (e.g. what particular topics are represented) and why you selected that particular piece of work.\n\nRevisions You can revise any homework or other artifacts again before including them in the portfolio. Your goal is to show how you’ve met the criteria for each grade by the end of the semester. If something confused you early on, but you’ve figured it out, that’s great – show me!",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
+    ]
+  },
+  {
+    "objectID": "structure.html#final-reflection",
+    "href": "structure.html#final-reflection",
+    "title": "6  Course Structure",
+    "section": "6.7 Final Reflection",
+    "text": "6.7 Final Reflection\nInstead of a final exam, I will ask you to complete a final self-evaluation of your learning in this course. The goal is give you an opportunity to summarize what you’ve learned and how your understanding of the material has evolved over the course of the semester.",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
+    ]
+  },
+  {
+    "objectID": "structure.html#final-project",
+    "href": "structure.html#final-project",
+    "title": "6  Course Structure",
+    "section": "6.7 Final Project",
+    "text": "6.7 Final Project\nThis is an opportunity to apply your mathematical knowledge gained from the course and dig a bit deeper into a relevant topic of your choosing. You might expand on some topic or idea from the notes or else find a completely new idea to explore. The goal is for you to demonstrate your interest in and understanding of concepts, topic or applications of Complex Analysis. The secondary goal is to demonstrate your communication skills in mathematics.\nThis will generally involve finding and reading additional resources, and I am happy to help you with this by pointing you in the right direction. I’d also suggest carefully reading my thoughts about using GenAI tools in Section 2.5.0.2.\nHere is a partial list of possible project ideas:\n\nApplications to physics such as fluid mechanics, heat flow, electrostatics, quantum mechanics\nPainleve’ equations\nAsymptotic analysis of integrals\nRiemann-Hilbert problems\nHighlights of analytic number theory\nConformal mappings\nThe Riemann zeta function\nLambert W-function\nLaplace transforms\nFourier transforms\nFunctions on the Riemann sphere",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
+    ]
+  },
+  {
+    "objectID": "glance.html#technology-and-other-resources-sec-genai",
+    "href": "glance.html#technology-and-other-resources-sec-genai",
+    "title": "Course at a Glance",
+    "section": "Technology and Other Resources {# sec-genai}",
+    "text": "Technology and Other Resources {# sec-genai}\nSome of the work we will do in this class will benefit from the use of technology such as Desmos. I highly recommend that you create a (free) Desmos account so that you can save your work. If you have questions about how to use any of these tools, please let me know. If you do use technology in your work, please indicate this in your written solutions.\n\nA word on search engines\nSearch engines (e.g. Google) use algorithms to determine what content on the internet is likely to be relevant to your search query. They cannot find information that is not on the internet, and search results may be affected by hidden parameters introduced by the companies that run them. Whether this content actually is relevant (or correct) is up to you to figure out.\n\n\nA word on GenAI\nAI text generators (ChatGPT, Copilot, Gemini, etc.) use Large Language Models (LLMs) to produce text that is likely to resemble a human-produced response to a given prompt. They are most likely to produce a meaningful output on topics where a great deal of human-produced text has already been written (which happens to include most of undergraduate mathematics). This output, however, is based on statistical predictions from contextual clues, not logical deductions or expert knowledge and there’s no guarantee that it’s mathematically correct!\n\n\n\n\n\n\nMy general feeling about the use of AI tools in the context of this course is that they fundamentally get in the way of your learning in several ways and should not be used in any capacity.\n\n\n\n\nThey are prone to both plagiarizing as well as making things up. Since their responses are produced from an amalgamation of many sources (sometimes without the permission of the original authors) they invariably use definitions, notation, assumptions, and concepts that we have not introduced in our class.\nAI tools undermine the collaborative learning community that we would like to develop. A significant way in which we will be building understanding in the class is through discussion with each other.\nUsing AI tools means that you are cheating yourself out of an opportunity to learn. The whole point of being in this class is to learn how to use certain ideas and tools to solve problems. Note that I didn’t say that the point is to solve problems. This is a very much like the difference between going to a restaurant vs. learning how to cook.\nUsing AI tools undermines the relationship between student and instructor. When a student gives me work that seems AI generated, it creates an adversarial dynamic and now I’m looking at everything that student gives me with suspicion. If you ever feel tempted to use AI tools to shortcut your learning, please pause and come talk to me about finding a different strategy.\nApart from doing mathematics, students sometimes use AI tools to help with writing (and here I’m also thinking of tools like Grammerly). Here’s a secret – AI-assisted writing is not good writing, period. It might be gramatically “correct” but that’s not the same thing. Good writing involves actual thinking by a unique individual person.\n\nSo where does that leave us? I really do not want to lay down a policy of “THOU SHALL NOT…” because I’d much rather simply trust you. So that’s what I’ll do - you now know how I feel about using AI tools in this class and I will trust that you will respect me, your classmates, and our goals for being here together enough that you’ll honor that trust.",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course at a Glance</span>"
+    ]
+  },
+  {
+    "objectID": "structure.html#quizzes",
+    "href": "structure.html#quizzes",
+    "title": "6  Course Structure",
+    "section": "6.4 Quizzes",
+    "text": "6.4 Quizzes\nWe will likely have a few short in-class quizzes, generally at the end of each chapter to help you assess your progress.",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Course Structure</span>"
+    ]
+  },
+  {
+    "objectID": "grades.html#qualitative-assessment",
+    "href": "grades.html#qualitative-assessment",
+    "title": "7  Grades",
+    "section": "",
+    "text": "Keep up with the daily Tasks and come to class ready to discuss and/or present your work.\nSubmit weekly homework, including revisions that incorporate feedback if needed, that reflects understanding of the class content.\nSubmit a portfolio that demonstrates your understanding of the course content as a whole body of knowledge, making connections between topics covered over the semester.",
+    "crumbs": [
+      "At a Glance",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Grades</span>"
     ]
   }
 ]
