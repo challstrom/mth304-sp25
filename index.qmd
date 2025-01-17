@@ -12,7 +12,7 @@ format:
 
 ### Welcome!
 
-::::: columns
+:::::: columns
 ::: {.column width="60%"}
 I'm looking forward to getting to know each of you this semester and it is my sincere goal to make our time together (in class and out) productive and engaging. I am here to help you succeed, not just in learning the material but in growing as a learner. Learning takes effort, a willingness to try something that may not work, and an openness to learning from feedback. My role is to help create an environment in which all of you are supported in these aspects.
 
@@ -20,11 +20,9 @@ I want you to feel comfortable coming to me with any questions or concerns that 
 :::
 
 ::: {.column width="5%"}
-
 :::
 
 ::: {.column width="35%"}
-
 ![](images/whitaker.jpg){fig-align="right"}
 :::
-:::::
+::::::
